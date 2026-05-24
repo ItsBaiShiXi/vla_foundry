@@ -4,7 +4,6 @@ secrets.env
 
 # Experiments / data / outputs
 wandb
-experiments
 outputs
 results
 data/lerobot/
